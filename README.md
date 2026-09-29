@@ -1,8 +1,8 @@
-# DLG-Net
+# BGS
 
 This repository contains the official implementation of the paper:
 
-**DLG-Net: A Decoupled Local-Global Network for Topology-Aware Pulmonary Airway Segmentation in CT**
+**Bottleneck-guided skip modulation and Radius-Aware Supervision for Pulmonary Tubular Tree Segmentation**
 
 ## Code Availability
 
